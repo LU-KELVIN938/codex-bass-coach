@@ -1,0 +1,6 @@
+interface:
+  display_name: "Bass Practice · 贝斯练习"
+  short_description: "Plan bass practice and keep local journals"
+  default_prompt: "Use $bass-practice to plan my next session and review my local practice journal."
+policy:
+  allow_implicit_invocation: true
