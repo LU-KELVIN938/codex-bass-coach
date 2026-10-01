@@ -1,0 +1,11 @@
+# Local practice journals / 本地练习日志
+.bass-practice/
+practice-data/
+
+# Local credentials and temporary files / 本地凭据与临时文件
+.env
+.env.*
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
